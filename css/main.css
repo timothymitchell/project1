@@ -1,4 +1,5 @@
 /* Base CSS */
+
 body	{
 	color: #666666;
 	font-family: Verdana, sans-serif;
@@ -64,13 +65,4 @@ h2	{
 
 #main-article	{
 	margin-top:	30px;
-}
-
-/* Overlay */
-
-.mockup-overlay {
-   top: 0;
-   position: absolute;
-   z-index: 10;
-   opacity: .2;
 }
