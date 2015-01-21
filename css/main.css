@@ -1,4 +1,4 @@
-/* Base CSS */
+/*  Base CSS  */
 
 body	{
 	color: #666666;
@@ -14,9 +14,9 @@ body	{
 }
 
 h1 {
- color: #666666;
- font-size: 48px;
- margin-top: 20px;
+ 	color: #666666;
+ 	font-size: 48px;
+ 	margin-top: 20px;
 }
 
 h2	{
