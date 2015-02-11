@@ -1,2 +1,2 @@
 # project1
-Porject 1 submission - Mockup to Website.
+Project 1 Submission - Mockup to Website.
